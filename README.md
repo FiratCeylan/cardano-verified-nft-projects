@@ -1,3 +1,8 @@
+```
+This is premoderated list used in Minterr.io explorer. All pull requests may be rejected without explanation. Thank you for your understanding!
+```
+
+
 # Contribution Guidelines
 
 **To add to the list:** Submit a pull request
